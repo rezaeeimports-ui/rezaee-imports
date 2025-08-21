@@ -1,0 +1,23 @@
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  margin: 2rem;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #0f766e;
+}
+
+a {
+  color: #115e59;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  margin-top: 1.5rem;
+}
